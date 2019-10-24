@@ -1,0 +1,72 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+}
+.section{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.first-body{
+    background-image:linear-gradient(rgba(255, 255, 0, 0), rgba(18, 214, 34, 0.616)), url('../Images/bag-1868758_1280.jpg');      
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 50%;
+    height: 100vh;
+    float: left;
+}
+.second-body{
+    width: 50%;
+    height: 100vh;
+    background-color:white;
+    float: right;
+    text-align: center;
+}
+.third-body{
+    width: 60%;
+    height: 90vh;
+    padding: 2px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid ;
+}   
+.h1{
+    text-align: center;
+    color: white;
+    margin-top:44%;
+    font-size: 70px;
+    margin-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.learning{
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fa-frown{
+    margin-left:5%;
+    margin:0%;
+    padding:0%;
+    margin-top: 5px;
+}
+.we{
+    position: relative;
+    left: 30px;
+}
+.ng{
+    font-size:2%;
+
+}
+.flag{
+    width:2%;
+    border-radius:2%;
+    position: absolute;
+    margin-top:25px;
+    padding-left:1.5%;
+}

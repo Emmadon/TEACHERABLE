@@ -1,0 +1,76 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+.section{
+    width:100%;
+    height:100vh;
+    margin: 0;
+    padding: 0;
+}
+.main-body{
+    background-image:linear-gradient(rgba(255, 255, 0, 0), rgba(18, 214, 34, 0.616)), url('../Images/bag-1868758_1280.jpg');
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:50%;
+    height:100vh;
+    float: left;
+}
+.body{
+    width:50%;
+    height: 100vh;
+    background-color:white;
+    float: right;
+    text-align: center;
+}
+.h1{
+text-align: center;
+color: white;
+margin-top:44%;
+font-size: 70px;
+margin-bottom: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.learning{
+    text-align: center;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Teachable{
+    color:green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+.fa-envelope{
+    width: 25%;
+    font-size: 200px;
+    margin-top: 15%;
+    color: rgb(10, 170, 10);
+    border: 3px solid rgb(5, 158, 5);
+    border-radius: 600px;
+    padding: 5%;
+}
+.p{
+    font-weight: bold;
+    font-size: 17px;
+    margin-top: 4%;
+    text-transform: uppercase;
+    color: green;
+}
+.button{
+    width:40%;
+    padding:3% 6%;  
+    border-radius: 2px;
+    border: none;
+    font-weight: bold;
+    font-size: 12px;
+    cursor: pointer;
+    color: white;
+    background-color:rgb(8, 187, 8);
+    margin-top:7%;
+}
